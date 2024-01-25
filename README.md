@@ -1,0 +1,2 @@
+# goshifter
+Go shifter package
